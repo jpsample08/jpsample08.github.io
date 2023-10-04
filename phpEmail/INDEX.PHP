@@ -107,7 +107,7 @@ use PHPMailer\PHPMailer\Exception;
 require 'vendor/autoload.php';
 
 // Database Connection
-$dbHost = 'localhost';
+$dbHost = 'jpsample08.github.io';
 $dbUsername = 'root';
 $dbPassword = '';
 $dbName = 'testemail';
